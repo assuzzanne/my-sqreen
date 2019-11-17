@@ -1,4 +1,4 @@
-# Sqreen Technical Exercise
+# My Sqreen
 This project is a Flask app that listens for webhook notifications from Sqreen.
 
 # Getting Started
