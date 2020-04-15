@@ -1,5 +1,5 @@
 # My Sqreen
-This project is a Flask app that listens for webhook notifications from Sqreen.
+This project is a Flask app that listens for webhook notifications from the Sqreen product.
 
 # Getting Started
 To activate the virtual environment
