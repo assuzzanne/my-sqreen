@@ -1,4 +1,4 @@
-# Security Notifications Api
+# Security Alerts Api
 This project is a Flask app that listens for webhook notifications from a security application.
 
 # Getting Started
