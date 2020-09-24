@@ -1,4 +1,4 @@
-# My Sqreen
+# Security Notifications Api
 This project is a Flask app that listens for webhook notifications from a security application.
 
 # Getting Started
