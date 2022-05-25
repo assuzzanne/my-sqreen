@@ -20,7 +20,7 @@ multidict==4.5.2
 post==2019.4.13
 public==2019.4.13
 py-mini-racer==0.1.18
-PyJWT==1.7.1
+PyJWT==2.4.0
 pylint==2.3.1
 PySocks==1.7.0
 python-dotenv==0.10.3
